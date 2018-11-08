@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url("https://fonts.googleapis.com/css?family=Archivo");
+
+.home{
+  font-family: Archivo,sans-serif;
+  background-color: #191919;
+  color: #d614b1;
+}
+.container{
+  font-family: Audiowide;
+}
